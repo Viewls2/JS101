@@ -11,7 +11,7 @@ console.log(alpArr);
 alpArr.splice(3,3,'there'); //3=add at index3  3=replace index3(old)
 console.log(alpArr);
 
-alpArr.splice(1,1,' ');
+alpArr.splice(1,1,);
 console.log(alpArr);
 
 alpArr.pop(); // // remove last index
